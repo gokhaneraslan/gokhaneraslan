@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @GokhanEraslan
 - 👀 I’m interested in Machine Learning, Deep Learning
-- 🌱 I’m currently learning ... Arm
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ... Pytorch, Tensorflow
 - 📫 How to reach me ... gokhaneraslan1@outlook.com
 
 <!---
