@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GokhanEraslan
-- 👀 I’m interested in Machine Learning, Deep Learning
-- 🌱 I’m currently learning ... Pytorch, Tensorflow
+- 👀 I’m interested in deep Learning, full-Stack developer
+- 🌱 I’m currently learning ... tensorflow & tensorflow.js, Node.js React.js
 - 📫 How to reach me ... gokhaneraslan1@outlook.com
 
 <!---
