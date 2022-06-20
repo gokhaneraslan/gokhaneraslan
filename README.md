@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GokhanEraslan
+- 👋 Hi, I’m @gokhaneraslan
 - 👀 I’m interested in deep Learning, full-Stack developer
 - 🌱 I’m currently learning ... tensorflow & tensorflow.js, Node.js React.js
 - 📫 How to reach me ... gokhaneraslan1@outlook.com
