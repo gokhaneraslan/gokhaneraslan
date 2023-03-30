@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gokhaneraslan
 
-- 👀 I’m interested in Deep Learning, Backend developer, DevOps
+- 👀 I’m interested in AI, Backend developer, DevOps
 - Language: Python, JavaScript-Node.js-React.js
 - Framework: FastAPI, Express.js
 - Version Control Systems: Git
