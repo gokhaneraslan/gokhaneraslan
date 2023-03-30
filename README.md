@@ -8,7 +8,7 @@
 - Relational Databases: MySQL
 - NoSQL databases: MongoDB, Firebase
 - APIs: REST, RESTFull
-- Authentication: OAuth, JWT
+- Authentication: OAuth2, JWT
 - Caching: Redis
 - Web Servers: Apache, Nginx
 - Containers: Docker
