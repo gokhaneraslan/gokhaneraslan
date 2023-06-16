@@ -1,20 +1,19 @@
 - 👋 Hi, I’m @gokhaneraslan
 
-- 👀 I’m interested in DevOps, Backend developer, AI
-- Language: Python, JavaScript-Node.js-React.js
+- 👀 I’m interested in AI Developer, Backend developer
+- Language: Python, Node.js, React.js
 - Framework: FastAPI, Express.js
 - Version Control Systems: Git
-- Repo Hosting Services: GitHub, GitLab
+- Repo Hosting Services: GitHub
 - Relational Databases: MySQL
 - NoSQL databases: MongoDB, Firebase
-- APIs: REST, RESTFull
+- APIs: RESTFull
 - Authentication: OAuth2, JWT
 - Caching: Redis
 - Web Servers: Apache, Nginx
 - Containers: Docker
-- CI/CD: Jenkins, Gitlab CI # Still learning...
-- Container Orchestration: Kubernetes # Still learning...
-- 🌱 I’m currently learning ... Kubernetes
+- CI/CD: Jenkins
+- 🌱 I’m currently learning ...
 
 - 📫 How to reach me ... gokhaneraslan1@outlook.com
 - My Website: [gokhaneraslan.com](https://www.gokhaneraslan.com)
