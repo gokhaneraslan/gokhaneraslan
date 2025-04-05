@@ -1,23 +1,48 @@
-- 👋 Hi, I’m @gokhaneraslan
+# 👋 Hi, I'm @gokhaneraslan
 
-- 👀 I’m interested in AI Developer, Backend developer
-- Language: Python, Node.js, React.js
-- Framework: FastAPI, Express.js
-- Version Control Systems: Git
-- Repo Hosting Services: GitHub
-- Relational Databases: MySQL
-- NoSQL databases: MongoDB, Firebase
-- APIs: RESTFull
-- Authentication: OAuth2, JWT
-- Caching: Redis
-- Web Servers: Apache, Nginx
-- Containers: Docker
-- CI/CD: Jenkins
-- 🌱 I’m currently learning ...
+## AI Developer | Machine Learning | Backend Engineer
 
-- 📫 How to reach me ... gokhaneraslan1@outlook.com
-- My Website: [gokhaneraslan.com](https://www.gokhaneraslan.com)
-<!---
-GokhanEraslan/GokhanEraslan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I craft intelligent solutions using cutting-edge AI technologies and build robust systems to power them.
+
+### 🧠 AI & Machine Learning Expertise
+- **Computer Vision:** Object detection, image segmentation, classification systems
+- **Natural Language Processing:** Sentiment analysis, text processing, information extraction
+- **Large Language Models:** Prompt engineering, fine-tuning, application development
+- **Speech AI:** TTS model development, voice cloning, speech synthesis fine-tuning
+- **Deep Learning:** Neural network architecture design, model optimization
+- **Model Fine-Tuning:** Parameter-efficient tuning, LoRA, QLoRA, transfer learning
+- **AI Deployment:** Model serving, scalable inference pipelines
+
+### 👀 I'm passionate about
+- Building AI solutions for real-world problems
+- Developing intelligent systems with practical applications
+- Creating seamless integrations between AI and backend systems
+- Fine-tuning models for specialized domains and applications
+
+### 🛠️ Technology Stack
+- **AI/ML:** Python, PyTorch, TensorFlow, Scikit-learn, Hugging Face, NVIDIA CUDA, GCP, AWS
+- **Speech Models:** Tacotron, WaveNet, VITS, FastSpeech, Piper
+- **Backend:** FastAPI, Express.js, Node.js
+- **Frontend:** React.js
+- **Databases:** MongoDB, MySQL, PostgreSQL
+- **Infrastructure:** Docker, Nginx, Redis, Jenkins
+- **Security:** OAuth2, JWT
+- **Version Control:** Git, GitHub
+
+### 🚀 Featured AI Projects
+- **Advanced Computer Vision System:** Developed object segmentation architecture with robotic integration
+- **LLM-Powered Sentiment Engine:** Created multilayered analysis using text and image processing
+- **Agricultural AI Solution:** Built deep neural networks for detection, classification and sorting
+- **Intelligent Web Scraping:** Designed AI-driven automated data extraction and processing system
+- **Custom TTS Solution:** Fine-tuned speech synthesis models for natural-sounding voice applications
+
+### 🌱 I'm currently learning ...
+
+### 📫 Connect With Me
+- Email: gokhaneraslan1@outlook.com
+- Website: [gokhaneraslan.com](https://gokhaneraslan.com)
+- LinkedIn: [linkedin.com/in/gökhan-eraslan](https://www.linkedin.com/in/gökhan-eraslan)
+
+---
+
+*"At the intersection of artificial intelligence and software engineering, creating systems that understand and adapt."*
